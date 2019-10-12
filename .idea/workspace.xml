@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="583e3536-6758-4291-b4c4-97d63b970b70" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rnzl0AZuGwAGBQRTGCgXNtSWkn" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.sortByTest">
+    <configuration name="AppTest.help" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.argos.999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.argos999.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.argos999" />
+      <option name="MAIN_CLASS_NAME" value="com.argos999.AppTest" />
+      <option name="METHOD_NAME" value="help" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.shop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.argos.999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.argos999.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.argos999" />
+      <option name="MAIN_CLASS_NAME" value="com.argos999.AppTest" />
+      <option name="METHOD_NAME" value="shop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.shopLink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.argos.999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.argos999.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.argos999" />
+      <option name="MAIN_CLASS_NAME" value="com.argos999.AppTest" />
+      <option name="METHOD_NAME" value="shopLink" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.sortByTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.argos.999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.argos999.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.argos999" />
+      <option name="MAIN_CLASS_NAME" value="com.argos999.AppTest" />
+      <option name="METHOD_NAME" value="sortByTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.storeLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.argos.999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.argos999.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.argos999" />
+      <option name="MAIN_CLASS_NAME" value="com.argos999.AppTest" />
+      <option name="METHOD_NAME" value="storeLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.sortByTest" />
+        <item itemvalue="JUnit.AppTest.shop" />
+        <item itemvalue="JUnit.AppTest.shopLink" />
+        <item itemvalue="JUnit.AppTest.help" />
+        <item itemvalue="JUnit.AppTest.storeLocation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="583e3536-6758-4291-b4c4-97d63b970b70" name="Default Changelist" comment="" />
+      <created>1570317794542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570317794542</updated>
+    </task>
+    <servers />
+  </component>
+</project>
